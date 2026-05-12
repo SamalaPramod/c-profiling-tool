@@ -1,1 +1,1 @@
-# c++-profiling-tool
+cpp-function-profiler
