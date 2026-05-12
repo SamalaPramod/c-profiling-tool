@@ -1,1 +1,1 @@
-# c-profiling-tool
+# c++-profiling-tool
